@@ -26,5 +26,3 @@ calcBalance() {
 
 
 
-
-export default Account;
